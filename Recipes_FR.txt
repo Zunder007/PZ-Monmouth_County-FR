@@ -1,0 +1,22 @@
+Recipes_FR = {
+
+	Recipe_Convert_into_Item = "Convertir en objet",
+	Recipe_Make_Attachable = "Convertir en attachable",		
+
+	Recipe_Make_Alicepack_Attachable_Item = "Créer un élément attachable au Sac Alice",	
+	Recipe_Dismantle_Military_Flashlight = "Démanteler la lampe de poche militaire",	
+	Recipe_Insert_Battery_into_Military_Flashlight = "Insérer la batterie dans la lampe de poche militaire",	
+	Recipe_Remove_Battery = "Retirer la batterie",		
+	Recipe_Make_Snap_Ring = "Fabriquer un anneau élastique",
+	Recipe_Make_Secondary_Bag = "Fabriquer un sac secondaire",
+	Recipe_Make_Backpack_Attachable = "Fabriquer une attache au sac à dos",	
+	Recipe_Upgrade_Black_Alicepack = "Améliorer le sac Alice noir",
+	Recipe_Upgrade_Spike's_Alicepack = "Améliorer le sac Alice de Spike",
+	Recipe_Upgrade_Digi_Camo_GaP_Alicepack = "Améliorer le sac Alice camouflage digital vert et violet",
+	Recipe_Upgrade_Olive_Alicepack = "Améliorer le sac Alice Olive",
+	Recipe_Upgrade_Pink_and_Blue_Alicepack = "Améliorer le sac Alice rose et bleu",
+	Recipe_Upgrade_Sand_Alicepack = "Améliorer le sac Alice sable",
+	Recipe_Upgrade_Digi_Camo_White_AlicePack = "Améliorer le sac Alice camouflage digital blanc",
+
+
+}
