@@ -1,0 +1,135 @@
+ItemName_FR = {
+
+/* Bags */
+
+	ItemName_BZMClothing.Bag_ALICEpack_Spike			=	"Sac Alice de Spike",
+	ItemName_BZMClothing.Bag_ALICEpack_Spike_Tier_1			=	"Sac Alice de Spike",
+	ItemName_BZMClothing.Bag_ALICEpack_Spike_Tier_2			=	"Sac Alice de Spike",
+	ItemName_BZMClothing.Bag_ALICEpack_Spike_Tier_3			= 	"Sac Alice de Spike",
+
+	ItemName_BZMClothing.Bag_ALICEpack_Black			=	"Sac Alice Noir",
+	ItemName_BZMClothing.Bag_ALICEpack_Black_Tier_1			=	"Sac Alice Noir",
+	ItemName_BZMClothing.Bag_ALICEpack_Black_Tier_2			=	"Sac Alice Noir",
+	ItemName_BZMClothing.Bag_ALICEpack_Black_Tier_3			=	"Sac Alice Noir",
+
+	ItemName_BZMClothing.Bag_ALICEpack_GaPDC			=	"Sac Alice camouflage digital vert et violet",
+	ItemName_BZMClothing.Bag_ALICEpack_GaPDC_Tier_1			=	"Sac Alice camouflage digital vert et violet",
+	ItemName_BZMClothing.Bag_ALICEpack_GaPDC_Tier_2			=	"Sac Alice camouflage digital vert et violet",
+	ItemName_BZMClothing.Bag_ALICEpack_GaPDC_Tier_3			=	"Sac Alice camouflage digital vert et violet",
+
+	ItemName_BZMClothing.Bag_ALICEpack_Olive			=	"Sac Alice Olive",
+	ItemName_BZMClothing.Bag_ALICEpack_Olive_Tier_1			=	"Sac Alice Olive",
+	ItemName_BZMClothing.Bag_ALICEpack_Olive_Tier_2			=	"Sac Alice Olive",
+	ItemName_BZMClothing.Bag_ALICEpack_Olive_Tier_3			=	"Sac Alice Olive",
+
+	ItemName_BZMClothing.Bag_ALICEpack_PinkSkyBlue			=	"Sac Alice rose et bleu",
+	ItemName_BZMClothing.Bag_ALICEpack_PinkSkyBlue_Tier_1		=	"Sac Alice rose et bleu",
+	ItemName_BZMClothing.Bag_ALICEpack_PinkSkyBlue_Tier_2		=	"Sac Alice rose et bleu",
+	ItemName_BZMClothing.Bag_ALICEpack_PinkSkyBlue_Tier_3		=	"Sac Alice rose et bleu",
+
+	ItemName_BZMClothing.Bag_ALICEpack_Sand				=	"Sac Alice sable",
+	ItemName_BZMClothing.Bag_ALICEpack_Sand_Tier_1			=	"Sac Alice sable",
+	ItemName_BZMClothing.Bag_ALICEpack_Sand_Tier_2			=	"Sac Alice sable",
+	ItemName_BZMClothing.Bag_ALICEpack_Sand_Tier_3			=	"Sac Alice sable",
+
+	ItemName_BZMClothing.Bag_ALICEpack_WaGDC			=	"Sac Alice camouflage digital blanc",
+	ItemName_BZMClothing.Bag_ALICEpack_WaGDC_Tier_1			=	"Sac Alice camouflage digital blanc",
+	ItemName_BZMClothing.Bag_ALICEpack_WaGDC_Tier_2			=	"Sac Alice camouflage digital blanc",
+	ItemName_BZMClothing.Bag_ALICEpack_WaGDC_Tier_3			=	"Sac Alice camouflage digital blanc",
+	
+/* Jewelry */
+
+	ItemName_BZMClothing.WristWatch_Right_DigitalKitten		=	"Montre Hello Kitty",
+	ItemName_BZMClothing.WristWatch_Left_DigitalKitten		=	"Montre Hello Kitty",
+	
+/* Hats */
+
+	ItemName_MonmouthClothing.Hat_VisorMoobys			=	"Visière de Mooby",
+	ItemName_MonmouthClothing.Hat_BaseballCapFraz_Reverse		=	"Casquette de Fraz",
+	ItemName_MonmouthClothing.Hat_Silent_Bob			=	"Casquette de Silent Bob",
+	ItemName_MonmouthClothing.Hat_JaysBeanie			=	"Bonnet de Jay",
+	ItemName_MonmouthClothing.Hat_BunnyEarsAmelora			=	"Oreilles de lapin",
+	ItemName_MonmouthClothing.Helmet_Judge				=	"Casque de Judge",
+	ItemName_MonmouthClothing.Mask_AmeloraBunny			=	"Masque de lapin",
+	ItemName_MonmouthClothing.Mask_Mooby				=	"Tête de Mooby",
+	ItemName_MonmouthClothing.BZM_Art_Hat				=	"Chapeau d'Art",
+	ItemName_MonmouthClothing.Hat_LaFours				=	"Chapeau de LaFours",
+	
+/* Jackets */
+
+	ItemName_MonmouthClothing.Jacket_Dead_Apes			=	"Veste en cuir Dead Apes",
+	ItemName_MonmouthClothing.Jacket_SilentBobsCoat			=	"Manteau de Silent Bob",
+	ItemName_MonmouthClothing.JacketLong_Jays			=	"Veste de Jay",
+	
+/* Others */
+
+	ItemName_MonmouthClothing.Glove_Single_Art			=	"Gant d'artistes",
+	
+/* Pants */
+	
+	ItemName_MonmouthClothing.Shorts_ShortsFraz			=	"Shorts de Fraz",
+	ItemName_MonmouthClothing.Shorts_Trousers_Jay			=	"Jogging de Jay",
+	
+/* Shirts */
+
+	ItemName_MonmouthClothing.Moobys_Shirt				=	"Uniforme de Mooby",
+	ItemName_MonmouthClothing.Tshirt_Black_Fraz			=	"T-Shirt de Fraz",
+	ItemName_MonmouthClothing.Tshirt_Black_SilentBob		=	"Tshirt de Silent Bob",
+	ItemName_MonmouthClothing.Tshirt_Berserker			=	"Tshirt de Berserker",
+	ItemName_BZMClothing.Shirt_LaFours				=	"Chemise LaFours"
+	
+/* Shoes */
+	
+	ItemName_MonmouthClothing.Shoes_BlackTrainers			=	"Baskets Ididos",
+	
+/* Suits */
+
+	ItemName_MonmouthClothing.Art_the_Clown_Outfit			=	"Costume de clown d'Art",
+
+/* Items */
+
+	ItemName_BZMClothing.Rubberducky3				=	"Canard en caoutchouc",
+	ItemName_BZMClothing.Spiffo					=	"Spiffo",
+	ItemName_BZMClothing.Doll					=	"Poupée",	
+	ItemName_BZMClothing.ToyBear					=	"Ours en peluche",
+	ItemName_BZMClothing.ToyBearSmall				=	"Ourson en peluche",
+	ItemName_BZMClothing.SpiffoDredd				=	"Spiffo Judge",
+	ItemName_BZMClothing.SpiffoBatman				=	"Spiffo Batman",
+	ItemName_BZMClothing.MonkeyPlushie				=	"Peluche singe",
+	ItemName_BZMClothing.BunnyPlushie				=	"Peluche lapin",
+	ItemName_BZMClothing.PokeballPlushie				=	"Peluche Pokéball",
+	ItemName_BZMClothing.PenguinPlushie				=	"Peluche pingouin",
+	ItemName_BZMClothing.SheepPlushie				=	"Peluche mouton",	
+	ItemName_BZMClothing.SlimerPlushie				=	"Peluche slimer",	
+	ItemName_BZMClothing.DarbyPlushie				=	"Peluche Darby",	
+	ItemName_BZMClothing.BZMCanteenBlack				=	"Cantine noire",	
+	ItemName_BZMClothing.BZMCanteenBlackfull			=	"Cantine noire remplie d'eau",	
+	ItemName_BZMClothing.BZMCanteenLime				=	"Cantine citron vert",	
+	ItemName_BZMClothing.BZMCanteenLimefull				=	"Cantine citron vert remplie d'eau",	
+	ItemName_BZMClothing.BZMCanteenPurple				=	"Cantine violette",	
+	ItemName_BZMClothing.BZMCanteenPurplefull			=	"Cantine violette remplie d'eau",	
+	ItemName_BZMClothing.BZM_MilitaryFlashlightBlack		=	"Lampe de poche militaire noire",	
+	ItemName_BZMClothing.BZM_MilitaryFlashlightPurple		=	"Lampe de poche militaire violette",	
+	ItemName_BZMClothing.BZM_MetalClip				=	"Anneau élastique",	
+	ItemName_BZMClothing.TobinsSpiritGuideBook			=	"Guide spirituel de Tobin",	
+	
+	ItemName_MonmouthWeapons.KukriMacheteSpike			=	"Kukri de Spike",
+	ItemName_MonmouthWeapons.PickAxePink				=	"Pioche rose",	
+	ItemName_MonmouthWeapons.Hammer_Reinforced			=	"Marteau renforcé",	
+	ItemName_MonmouthWeapons.SpearGungnir				=	"Réplique de Gungnir",	
+	ItemName_MonmouthWeapons.CrowbarScorpion			=	"Pied de biche scorpion",	
+	ItemName_MonmouthWeapons.AxeBZMCrafted				=	"Hache réutilisée",	
+
+	ItemName_MonmouthItems.BaCI1_Comic				=	"Bluntman et Chronic #1",	
+	ItemName_MonmouthItems.BaCI2_Comic				=	"Bluntman et Chronic #2",	
+	ItemName_MonmouthItems.BaCI3_Comic				=	"Bluntman et Chronic #3",	
+	
+/* Foods */
+
+	ItemName_MonmouthFoods.ZombieBombs				=	"Bonbons à la bombe zombie",
+	ItemName_BZMClothing.Pop					=	"Soda en conserve (sans sucre)",
+	ItemName_BZMClothing.Pop2					=	"Soda en conserve (saveur originale)",
+	ItemName_BZMClothing.Pop3					=	"Soda en conserve (menthe)",
+	ItemName_BZMClothing.PopBottle					=	"soda à l'orange",
+	ItemName_BZMClothing.PopBottleEmpty				=	"Bouteille de soda (vide)",
+}
