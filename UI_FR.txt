@@ -1,0 +1,19 @@
+-- Encode this file as ANSI
+UI_FR = {
+
+UI_optionscreen_binding_Hotbar 6 = "Barre de raccourcis 6",
+UI_optionscreen_binding_Hotbar 7 = "Barre de raccourcis 7",
+UI_optionscreen_binding_Hotbar 8 = "Barre de raccourcis 8",
+UI_optionscreen_binding_Hotbar 9 = "Barre de raccourcis 9",
+UI_optionscreen_binding_Hotbar 10 = "Barre de raccourcis 10",
+UI_optionscreen_binding_Hotbar 11 = "Barre de raccourcis 11",
+UI_optionscreen_binding_Hotbar 12 = "Barre de raccourcis 12",
+UI_optionscreen_binding_Hotbar 13 = "Barre de raccourcis 13",
+UI_optionscreen_binding_Hotbar 14 = "Barre de raccourcis 14",
+UI_optionscreen_binding_Hotbar 15 = "Barre de raccourcis 15",
+UI_optionscreen_binding_Hotbar 16 = "Barre de raccourcis 16",
+UI_optionscreen_binding_Hotbar 17 = "Barre de raccourcis 17",
+UI_optionscreen_binding_Hotbar 18 = "Barre de raccourcis 18",
+UI_optionscreen_binding_Hotbar 19 = "Barre de raccourcis 19",
+UI_optionscreen_binding_Hotbar 20 = "Barre de raccourcis 20",
+}
