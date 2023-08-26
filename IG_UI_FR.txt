@@ -1,0 +1,24 @@
+IG_UI_FR = { --------------------------?
+
+	IGUI_Beard_Spike's = "de Spike",
+	IGUI_Beard_TheNak = "Le Nak",
+	IGUI_Hair_M_ShortMullet = "Mullet (Court)"
+	IGUI_Hair_M_Elias = "Le Elias"
+	IGUI_Hair_M_Hair_BZM_Elias_S1 = "Le Elias"
+	IGUI_Hair_M_Hair_BZM_Elias_S2 = "Le Elias"
+	IGUI_Hair_M_Hair_BZM_Elias_S4 = "Le Elias"
+
+
+	IGUI_HotbarAttachment_AlicepackSecondary = "Sac secondaire Alice",
+	IGUI_HotbarAttachment_AlicepackItemSlot1 = "Sac Alice Emplacement d'objet 1",	
+	IGUI_HotbarAttachment_AlicepackItemSlot2 = "Sac Alice Emplacement d'objet 2",
+	IGUI_HotbarAttachment_AlicepackItemSlot3 = "Sac Alice Emplacement d'objet 3",	
+	IGUI_HotbarAttachment_AlicepackItemSlot4 = "Sac Alice Emplacement d'objet 4",
+	IGUI_HotbarAttachment_AlicepackItemSlot5 = "Sac Alice Emplacement d'objet 5",	,	
+	IGUI_HotbarAttachment_AlicepackFlashlight = "Sac Alice Emplacement pour lampe de poche",	
+	IGUI_HotbarAttachment_AlicepackUmbrellaRight = "Sac Alice Emplacement utilitaire",
+	IGUI_HotbarAttachment_AlicepackPlushie = "Sac Alice Emplacement pour peluche",	
+	IGUI_HotbarAttachment_AlicepackBottleRight = "Sac Alice Emplacement pour bouteille",
+	IGUI_HotbarAttachment_AlicepackBottleLeft = "Sac Alice Emplacement pour bouteille",	
+
+}
