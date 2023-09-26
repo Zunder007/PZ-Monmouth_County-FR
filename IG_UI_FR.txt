@@ -1,4 +1,4 @@
-IG_UI_FR = { --------------------------?
+IG_UI_FR = {
 
 	IGUI_Beard_Spike's = "de Spike",
 	IGUI_Beard_TheNak = "Le Nak",
