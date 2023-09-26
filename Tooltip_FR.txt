@@ -7,7 +7,7 @@ Tooltip_FR = {
 	Tooltip_AttachAliceBackpackTier3		=	"Ajoute des emplacements: Objet 4, Objet 5, Bouteille d'eau 2, Lampe de poche",
 
 
-	Tooltip_SnapRing				=	"Utilisé pour attacher des objets aux sacs à dos",		
+	Tooltip_SnapRing				=	"Utilisé pour attacher des objets aux sacs à dos",	
 	Tooltip_SpikesNote				=	"Une note de survivants",
 	Tooltip_SpikeKukri				=	"Un couteau kukri népalais antique",
 	Tooltip_PickAxePink				=	"Une pioche peinte en rose",
@@ -15,19 +15,19 @@ Tooltip_FR = {
 	Tooltip_SpearGungnir				=	"Une réplique de Gungnir, la lance du dieu Odin",
 	Tooltip_ScorpionCrowbar				=	"Un pied de biche hautement personnalisé avec une queue en forme de piqûre de Scorpion",
 	Tooltip_AxeBZMCrafted				=	"Une hache personnalisée, lourde mais rapide",
-	Tooltip_Crowbarski				=	"Putain, mais qui fabrique un pied-de-biche en cristal?!"
+	Tooltip_Crowbarski				=	"Putain, mais qui fabrique un pied-de-biche en cristal?!",
 
 	Tooltip_AlicePackSpike				=	"Ce sac à dos appartenait au 'créateur' ",
 	Tooltip_Berserker				=	"Veux-tu faire de la baise BERSERKER!",
 	Tooltip_SilentBob				=	"....",
 	Tooltip_Jay					=	"Snoochie Boochies!",
-	Tooltip_LaFours_Hat				=	"Cela appartenait à l'agent de sécurité le plus craint de la profession!"
-	Tooltip_LaFours_Shirt				=	"J'ai entendu dire qu'il avait même réussi à en buter deux!"
+	Tooltip_LaFours_Hat				=	"Cela appartenait à l'agent de sécurité le plus craint de la profession!",
+	Tooltip_LaFours_Shirt				=	"J'ai entendu dire qu'il avait même réussi à en buter deux!",
 
 	Tooltip_TobinsSpiritGuide			=	"Un guide des esprits",
-	Tooltip_Tooltip_ZombiBombs			=	"Couvert de flocons de piment, et aigre aussi?!"
+	Tooltip_Tooltip_ZombiBombs			=	"Couvert de flocons de piment, et aigre aussi?!",
 
-	Tooltip_item_BaCI1				=	"LaFours contre Bluntman & Chronic - Numéro 1"
-	Tooltip_item_BaCI2				=	"Les nouvelles aventures de Bluntman & Chronic - Numéro 2"
-	Tooltip_item_BaCI3				=	"La mort inévitable de Chronic - Numéro 3"
+	Tooltip_item_BaCI1				=	"LaFours contre Bluntman & Chronic - Numéro 1",
+	Tooltip_item_BaCI2				=	"Les nouvelles aventures de Bluntman & Chronic - Numéro 2",
+	Tooltip_item_BaCI3				=	"La mort inévitable de Chronic - Numéro 3",
 }
