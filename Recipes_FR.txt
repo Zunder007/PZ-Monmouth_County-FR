@@ -1,15 +1,15 @@
 Recipes_FR = {
 
 	Recipe_Convert_into_Item = "Convertir en objet",
-	Recipe_Make_Attachable = "Convertir en attachable",		
+	Recipe_Make_Attachable = "Convertir en attachable",
 
-	Recipe_Make_Alicepack_Attachable_Item = "Créer un élément attachable au Sac Alice",	
-	Recipe_Dismantle_Military_Flashlight = "Démanteler la lampe de poche militaire",	
-	Recipe_Insert_Battery_into_Military_Flashlight = "Insérer la batterie dans la lampe de poche militaire",	
-	Recipe_Remove_Battery = "Retirer la batterie",		
+	Recipe_Make_Alicepack_Attachable_Item = "Créer un élément attachable au Sac Alice",
+	Recipe_Dismantle_Military_Flashlight = "Démanteler la lampe de poche militaire",
+	Recipe_Insert_Battery_into_Military_Flashlight = "Insérer la batterie dans la lampe de poche militaire",
+	Recipe_Remove_Battery = "Retirer la batterie",
 	Recipe_Make_Snap_Ring = "Fabriquer un anneau élastique",
 	Recipe_Make_Secondary_Bag = "Fabriquer un sac secondaire",
-	Recipe_Make_Backpack_Attachable = "Fabriquer une attache au sac à dos",	
+	Recipe_Make_Backpack_Attachable = "Fabriquer une attache au sac à dos",
 	Recipe_Upgrade_Black_Alicepack = "Améliorer le sac Alice noir",
 	Recipe_Upgrade_Spike's_Alicepack = "Améliorer le sac Alice de Spike",
 	Recipe_Upgrade_Digi_Camo_GaP_Alicepack = "Améliorer le sac Alice camouflage digital vert et violet",
@@ -18,5 +18,16 @@ Recipes_FR = {
 	Recipe_Upgrade_Sand_Alicepack = "Améliorer le sac Alice sable",
 	Recipe_Upgrade_Digi_Camo_White_AlicePack = "Améliorer le sac Alice camouflage digital blanc",
 
+	Recipe_Craft_Judge's_Helmet = "Fabriquer le casque du Judge",
+	Recipe_Craft_Bunny_Ears = "Fabriquer les oreilles de lapin",
+	Recipe_Craft_Mooby's_Head = "Fabriquer la tête de Mooby",
+	Recipe_Craft_Bunny_Mask = "Fabriquer le masque de lapin",
+	Recipe_Create_Reinforced_Hammer = "Forger un marteau renforcé",
+	Recipe_Create_Pink_Pickaxe = "Forger une pioche rose",
+	Recipe_Create_Gungnir_Replica = "Forger une réplique de Gungnir",
+	Recipe_Create_Scorpion_Crowbar = "Créer un pied-de-biche Scorpion",
+	Recipe_Create_Repurposed_Axe = "Créer une hache modifiée",
+	Recipe_Create_Lawgiver_MKII = "Fabriquer le Lawgiver MKII",
+	Recipe_Create_Lawgiver_MKII_Clip = "Fabriquer un chargeur pour Lawgiver MKII",
 
 }
