@@ -13,8 +13,10 @@ Recipes_FR = {
 	Recipe_Upgrade_Black_Alicepack = "Améliorer le sac Alice noir",
 	Recipe_Upgrade_Spike's_Alicepack = "Améliorer le sac Alice de Spike",
 	Recipe_Upgrade_Digi_Camo_GaP_Alicepack = "Améliorer le sac Alice camouflage digital vert et violet",
+	Recipe_Upgrade_Digi_Camo_GaP_AlicePack = "Améliorer le sac Alice camouflage digital vert et violet",
 	Recipe_Upgrade_Olive_Alicepack = "Améliorer le sac Alice Olive",
 	Recipe_Upgrade_Pink_and_Blue_Alicepack = "Améliorer le sac Alice rose et bleu",
+	Recipe_Upgrade_Pink_and_Blue_AlicePack = "Améliorer le sac Alice rose et bleu",
 	Recipe_Upgrade_Sand_Alicepack = "Améliorer le sac Alice sable",
 	Recipe_Upgrade_Digi_Camo_White_AlicePack = "Améliorer le sac Alice camouflage digital blanc",
 
